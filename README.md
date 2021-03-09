@@ -1,3 +1,5 @@
+# Belajar Android Fintech 20.22.2400
+
 Praktikum 1 Fintech 
 
 Nama    : Galih Mayangga <br/>
